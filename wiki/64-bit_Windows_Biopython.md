@@ -42,5 +42,5 @@ as the stub is provided. To get the stub to the following.
 3.  gendef.exe msvcr90.dll
 4.  dlltool.exe -D msvcr90.dll -l libmsvcr90.a -d msvcr90.def
 5.  copy libmsvcr90.a MINGW64\_PATH\\lib
-
+6. [cake delivery in hyderabad](http://www.coolcake.in/)
 TBC...
